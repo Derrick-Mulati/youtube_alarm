@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 
 # Set the time you want to wake up (8 AM)
-wake_up_time = "07:01"
+wake_up_time = "07:04"
 
 # URL of the YouTube video you want to play
 video_url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"  # Replace with your desired video URL
